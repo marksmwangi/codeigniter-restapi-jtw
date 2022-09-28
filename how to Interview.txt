@@ -1,0 +1,17 @@
+TEST Codeigniter RESTful API
+
+php C:\xampp\htdocs\codeigniter-rest-api\spark serve
+
+
+API END Points 
+
+1. GET All Records
+http://localhost:8080/employee
+
+2. GET Single Record
+http://localhost:8080/employee/4
+
+3. Update Record
+http://localhost:8080/employee/4
+
+
